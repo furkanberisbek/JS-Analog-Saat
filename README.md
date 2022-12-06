@@ -4,4 +4,4 @@
 <p>Bu proje JavaScript ile oluşturulmuştur.</p>
 
 <h2>Screen Gif</h2>
-![](screen.Gif)
+![](screen.gif)
